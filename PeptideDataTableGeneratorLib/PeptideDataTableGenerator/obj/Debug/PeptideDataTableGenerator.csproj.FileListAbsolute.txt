@@ -1,0 +1,9 @@
+C:\Wajahat\Bioinformatics\PeptideDataTableGeneratorLib\PeptideDataTableGenerator\bin\Debug\PeptideDataTableGenerator.dll
+C:\Wajahat\Bioinformatics\PeptideDataTableGeneratorLib\PeptideDataTableGenerator\bin\Debug\PeptideDataTableGenerator.pdb
+C:\Wajahat\Bioinformatics\PeptideDataTableGeneratorLib\PeptideDataTableGenerator\bin\Debug\PeptideGenerator.dll
+C:\Wajahat\Bioinformatics\PeptideDataTableGeneratorLib\PeptideDataTableGenerator\bin\Debug\ProgressReporter.dll
+C:\Wajahat\Bioinformatics\PeptideDataTableGeneratorLib\PeptideDataTableGenerator\bin\Debug\ProgressReporter.pdb
+C:\Wajahat\Bioinformatics\PeptideDataTableGeneratorLib\PeptideDataTableGenerator\bin\Debug\PeptideGenerator.pdb
+C:\Wajahat\Bioinformatics\PeptideDataTableGeneratorLib\PeptideDataTableGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Wajahat\Bioinformatics\PeptideDataTableGeneratorLib\PeptideDataTableGenerator\obj\Debug\PeptideDataTableGenerator.dll
+C:\Wajahat\Bioinformatics\PeptideDataTableGeneratorLib\PeptideDataTableGenerator\obj\Debug\PeptideDataTableGenerator.pdb

@@ -1,0 +1,9 @@
+bin\Debug\PeptideDataTableGenerator.dll
+bin\Debug\PeptideDataTableGenerator.pdb
+bin\Debug\PeptideGenerator.dll
+bin\Debug\ProgressReporter.dll
+bin\Debug\ProgressReporter.pdb
+bin\Debug\PeptideGenerator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PeptideDataTableGenerator.dll
+obj\Debug\PeptideDataTableGenerator.pdb
